@@ -1,5 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+
+const name = "Dan";
+const App = "app";
 
 function App() {
   return (
